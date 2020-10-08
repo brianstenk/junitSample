@@ -1,4 +1,4 @@
-package io.javabrains.utils;
+package demo.example.utils;
 
 public class MathUtils {
 	
